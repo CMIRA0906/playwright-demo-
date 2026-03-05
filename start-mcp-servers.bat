@@ -1,0 +1,16 @@
+@echo off
+echo Starting Playwright MCP Servers...
+
+echo Starting Official Playwright MCP Server...
+start /B npx @playwright/mcp@latest
+
+echo Starting ExecuteAutomation Playwright MCP Server...
+start /B npx @executeautomation/playwright-mcp-server
+
+echo All MCP servers started!
+echo Press any key to stop servers...
+pause
+
+echo Stopping MCP servers...
+taskkill /f /im node.exe
+echo MCP servers stopped!

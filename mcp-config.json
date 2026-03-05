@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "playwright-official": {
+      "command": "npx",
+      "args": ["@playwright/mcp@latest"],
+      "description": "Official Playwright MCP server for browser automation"
+    },
+    "playwright-executeautomation": {
+      "command": "npx",
+      "args": ["@executeautomation/playwright-mcp-server"],
+      "description": "ExecuteAutomation Playwright MCP server with extended features"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "alitacode.providerServerURL": "https://nexus.elitea.ai",
+  "alitacode.LLMServerUrl": "https://nexus.elitea.ai/",
+  "alitacode.modelName": "gpt-4o",
+  "alitacode.LLMModelName": "gpt-4o",
+  "alitacode.authToken": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiNGEyMjc4NTEtYjYwNC00M2E0LTk2ZjMtOGIyZTU1NTMzZDk0IiwiZXhwaXJlcyI6bnVsbH0.YVrrxyRc856SEXmyQIBgqDFi3CanSwQckItOiu26NXKXlUTC3q3ywJ7JdCC-TVGV4KGQz144L82TKxl_KptHTg",
+  "alitacode.LLMAuthToken": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiNGEyMjc4NTEtYjYwNC00M2E0LTk2ZjMtOGIyZTU1NTMzZDk0IiwiZXhwaXJlcyI6bnVsbH0.YVrrxyRc856SEXmyQIBgqDFi3CanSwQckItOiu26NXKXlUTC3q3ywJ7JdCC-TVGV4KGQz144L82TKxl_KptHTg",
+  "alitacode.projectId": 8741,
+  "alitacode.integrationUid": "5318b593-2a04-4275-a1af-b4770c28fbd2",
+  "alitacode.defaultViewMode": "split",
+  "alitacode.verifySsl": false,
+  "eliteacode.LLMServerUrl": "https://nexus.elitea.ai/",
+  "eliteacode.LLMModelName": "gpt-4o",
+  "eliteacode.LLMAuthToken": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiNGEyMjc4NTEtYjYwNC00M2E0LTk2ZjMtOGIyZTU1NTMzZDk0IiwiZXhwaXJlcyI6bnVsbH0.YVrrxyRc856SEXmyQIBgqDFi3CanSwQckItOiu26NXKXlUTC3q3ywJ7JdCC-TVGV4KGQz144L82TKxl_KptHTg",
+  "eliteacode.projectId": 8741,
+  "eliteacode.integrationUid": "5318b593-2a04-4275-a1af-b4770c28fbd2",
+  "eliteacode.displayType": "split",
+  "eliteacode.verifySsl": false,
+  "eliteacode.debug": false
+}
